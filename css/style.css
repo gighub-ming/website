@@ -90,7 +90,7 @@ input::placeholder {
 }
 .banner .w {
   height: 420px;
-  background: url("images/banner.png") no-repeat top center;
+  background: url("../images/banner.png") no-repeat top center;
 }
 .sub-nav {
   float: left;
