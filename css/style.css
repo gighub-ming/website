@@ -90,7 +90,7 @@ input::placeholder {
 }
 .banner .w {
   height: 420px;
-  background: url("file:///D:/%E5%AD%A6%E6%88%90%E5%9C%A8%E7%BA%BF/images/banner.png")
+  background: url("images/banner.png");
     no-repeat top center;
 }
 .sub-nav {
